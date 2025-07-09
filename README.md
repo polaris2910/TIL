@@ -142,5 +142,10 @@ C# 학습 시작
 7/8 3장의 상속을 이용하면 아이템 리스트를 잘 만들 수 있을거 같다. 시도해보자
 3장의 강의를 들었지만 과제진행이 막혔다. 어떻게 접근해야할지 감이 안잡힌다.
 과제스킵
+7/8
+오늘은 과제를 많이 진행했다.
+ if (int.TryParse(say, out int selectedIndex) &&
+     selectedIndex >= 0 && selectedIndex < Village.storeList.Count)
+로 리스트의 사항을 숫자로 끌어 오는 방법 활용
 
 
