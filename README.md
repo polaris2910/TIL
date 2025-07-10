@@ -147,5 +147,6 @@ C# 학습 시작
  if (int.TryParse(say, out int selectedIndex) &&
      selectedIndex >= 0 && selectedIndex < Village.storeList.Count)
 로 리스트의 사항을 숫자로 끌어 오는 방법 활용
-
+7/10
+반복적인 암기중
 
