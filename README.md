@@ -177,3 +177,9 @@ A Player의 OnCollisionEnter2D는 Obstacle의 자녀인 top, Bottom 오브젝트
 Q빌드를 했는데 파란화면밖에 출력되지 않습니다. 무슨문제일까요?
 A빌드 셋팅에서 씬을 추가하지 않았기에 생기는 문제입니다. 씬을 다시 확인해보세요.
 씬을 잘 확인하기
+
+7/23
+
+this.transform.GetChild(childCount - i).gameObject;
+//겟차일드는 자식 오브젝트에게 접근하는 기능, 오브젝트로 가서 다시 메쉬 등을 변경하도록 하는것이.gameObject
+
