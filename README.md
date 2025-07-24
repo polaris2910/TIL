@@ -192,4 +192,7 @@ OnTriggerExit2D OnTriggerEnter2D는 트리거를 작동시켰을 경우 작동�
 OnTriggerStay는 비비고있을때 작동하는 함수
 변수를 줄이려면 bool값을 만들고 뒤의 두 함수로 끄고 키게해서 관리하는게 안전하다.
 
+Text Meshi pro는 컴포넌트로 찾거나 3d에 들어가있다.
 
+GetComponentInChildren-->하나만 가져온다.
+GetComponentsInChildren-->배열을 가져온다.
