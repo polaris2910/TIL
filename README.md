@@ -184,5 +184,12 @@ this.transform.GetChild(childCount - i).gameObject;
 //겟차일드는 자식 오브젝트에게 접근하는 기능, 오브젝트로 가서 다시 메쉬 등을 변경하도록 하는것이.gameObject
 
 7/24
+
+
 <img width="672" height="667" alt="image" src="https://github.com/user-attachments/assets/b2fbe2b8-4ecd-48bc-a701-34d247043395" />
+
+OnTriggerExit2D OnTriggerEnter2D는 트리거를 작동시켰을 경우 작동하는 함수
+OnTriggerStay는 비비고있을때 작동하는 함수
+변수를 줄이려면 bool값을 만들고 뒤의 두 함수로 끄고 키게해서 관리하는게 안전하다.
+
 
