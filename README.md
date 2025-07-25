@@ -196,3 +196,8 @@ Text Meshi pro는 컴포넌트로 찾거나 3d에 들어가있다.
 
 GetComponentInChildren-->하나만 가져온다.
 GetComponentsInChildren-->배열을 가져온다.
+
+클레스->형태가 없음
+인스텐스-> 형태가 있다.
+메서드->클레스 안에 생성
+클레스를 인스턴스로 지정해서 관리->객체지향
